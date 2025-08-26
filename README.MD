@@ -18,7 +18,7 @@ The GDK contains the common tools, libraries, and documentation needed to build 
 ### Quick Links
 • [Install](#installation)
 
-• [Samples & Documentation](#-docs--downloads)
+• [Samples & Documentation](#docs--downloads)
 
 • 🆕[Visual Studio Extension for GDK Development](#visual-studio-extension-for-gdk-development)
 
